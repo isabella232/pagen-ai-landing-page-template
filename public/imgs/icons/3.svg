@@ -1,7 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="3" y="3" width="18.2842" height="18.2842" rx="9.14208" stroke="#333333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M8 10H8.01" stroke="#333333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M16 10H16.01" stroke="#333333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<line x1="10.3994" y1="15.7131" x2="13.8847" y2="15.7131" stroke="#333333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" fill="none" viewBox="0 0 24 24"><rect width="18.284" height="18.284" x="3" y="3" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" rx="9.142"/><path stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 10H8.01"/><path stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 10H16.01"/><line x1="10.399" x2="13.885" y1="15.713" y2="15.713" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/></svg>
